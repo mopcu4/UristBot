@@ -1,0 +1,48 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/SielomRoutes.cs
+
+# Файлы IDE
+*.user
+*.suo
+*.userprefs
+*.ilk
+*.pdb
+*.opendb
+*.VC.db
+
+# Bin и obj папки
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Файлы NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+.nuget/
+
+# Файлы пакетов
+.vs/
+*.vsconfig
+
+# Файлы сборки
+*.dll
+*.exe
+*.app
+*.ipa
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+
+# Конфиденциальные данные
+appsettings*.json
