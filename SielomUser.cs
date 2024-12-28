@@ -2,7 +2,6 @@
 using MongoDB.Bson.Serialization.Attributes;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using Telegram.Bot.Types;
 
 namespace UristBot
 {

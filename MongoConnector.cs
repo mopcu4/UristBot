@@ -1,12 +1,5 @@
-﻿using Microsoft.FSharp.Data.UnitSystems.SI.UnitNames;
-using MongoDB.Bson;
+﻿using MongoDB.Bson;
 using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace UristBot
 {
